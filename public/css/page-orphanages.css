@@ -98,6 +98,7 @@ a.create-orphanage:hover {
 .leaflet-popup-tip{
     display:none;
 }
+
 leaflet-container{
     font: 700 2rem/1 'Nunito', sans-serif;
 
