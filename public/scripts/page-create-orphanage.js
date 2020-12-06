@@ -1,5 +1,5 @@
 // create map
-const map = L.map("mapid").setView([-29.937317,-51.0726502], 15)
+const map = L.map("mapid").setView([-29.928, -51.050], 15)
 
 // create and add tileLayer
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png").addTo(map)
